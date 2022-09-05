@@ -3,5 +3,18 @@
   <groupId>automation-amazon</groupId>
   <artifactId>automation-amazon</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  
+  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+  <dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.4.0</version>
+  </dependency>
+
+  
+  
+  
+  </dependencies>
   <name>chandhu</name>
 </project>
